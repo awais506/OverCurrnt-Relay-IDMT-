@@ -1,5 +1,6 @@
 # OverCurrnt-Relay-IDMT-
-[For Details click this link]
+[For Details click this link https://drive.google.com/open?id=0BwxCJKlhXb2OcGRyaEgwWTJvejNBcHpmdGg2QmFRaEhHYTBZ ]
+
 Over-current protection is a very important element in power systems. 
 This protection is essential in order to minimize disturbances caused by 
 any failure in the system and to ensure continuous power delivery.
@@ -16,7 +17,7 @@ relay was implemented on LM4F123GXL based on two different methods
 Digital Relay
 Numeric Relay
 
-Computer-based system with software-based protection algorithms for the detection of electrical faults.
+Computer-based system with software-based protection algorithms for the detection of electrical faults.
 Also called  microprocessor type protective relays
 Replacements for electro mechanical protective relays.
 Over Current Relay
