@@ -1,4 +1,5 @@
 # OverCurrnt-Relay-IDMT-
+[For Details click this link]
 Over-current protection is a very important element in power systems. 
 This protection is essential in order to minimize disturbances caused by 
 any failure in the system and to ensure continuous power delivery.
@@ -16,8 +17,8 @@ Digital Relay
 Numeric Relay
 
 Computer-based system with software-based protection algorithms for the detection of electrical faults.
-Also called  microprocessor type protective relays
- Replacements for electro mechanical protective relays.
+Also called  microprocessor type protective relays
+Replacements for electro mechanical protective relays.
 Over Current Relay
 When the current flowing into the overcurrent relay exceeds a set point amount, 
 the relay operates with or without an intended time delay and trips the associated circuit breakers.
@@ -27,7 +28,7 @@ Greater the fault currents, the shorter are their operating time
 
 
 Algorithm 
-Current is sampled At least sampling rate >=2(Signal Frequency )Nquist Criteria
+Current is sampled At least sampling rate >=2(Signal Frequency ) Nquist Criteria
 RMS Value of I is Calculated
 Then Operating time is calculated using algorithm. 
 If Irms>Iset Timers starts ticking
